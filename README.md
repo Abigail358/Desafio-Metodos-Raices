@@ -29,7 +29,7 @@ Este proyecto implementa y compara tres métodos numéricos (Bisección, Newton-
 - **`ANALISIS COMPARACION DE EXCEL Y PYTHON.pdf`** - Comparación entre implementaciones Excel vs Python
 
 ### 🌐 Página Web
-- **Enlace:** [https://youware.app/project/wv0t1zpwra?enter_from=share&screen_status=2]
+- **Enlace:** En el classroom
 - Interfaz interactiva para resolver ecuaciones con cualquier método con gráfico incluido
 
 ## 🚀 Métodos Implementados
